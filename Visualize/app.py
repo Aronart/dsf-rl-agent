@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 import re
 
-DATA_DIR = 'data'
+DATA_DIR = 'Visualize/data'
 
 st.title("Dashboard is Live")
 
